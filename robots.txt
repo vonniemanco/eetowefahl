@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://cahveeghei.lanyuhai.com/sitemap.xml
